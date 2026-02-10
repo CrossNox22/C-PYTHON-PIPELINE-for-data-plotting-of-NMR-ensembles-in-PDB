@@ -1,4 +1,4 @@
-# C-PYTHON-PIPELINE for data plotting of NMR ensembles in PDB
+# C++/PYTHON-PIPELINE for data plotting of NMR ensembles in PDB
 A hybrid C++/Python pipeline for the structural validation and dynamic profiling of NMR protein ensembles. Features include RMSF, SASA, PCA, DCCM, and Ramachandran analysis.
 
 C-PYTHON-PIPELINE is a high-performance computational framework designed for the structural validation, dynamic profiling, and multidimensional characterization of protein NMR ensembles.
